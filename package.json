@@ -1,6 +1,6 @@
 {
   "name": "wog",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "a light, simple logging tool for a smoother development and debugging process",
   "main": "index.js",
   "scripts": {
