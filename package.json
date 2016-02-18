@@ -1,0 +1,19 @@
+{
+  "name": "wog",
+  "version": "1.0.0",
+  "description": "a light, simple logging tool for a smoother development and debugging process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ning-github/wog.git"
+  },
+  "author": "Ning Xia <nxiamail@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ning-github/wog/issues"
+  },
+  "homepage": "https://github.com/ning-github/wog#readme"
+}
