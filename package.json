@@ -4,7 +4,7 @@
   "description": "a light, simple logging tool for a smoother development and debugging process",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/mocha/bin/mocha ./test/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ning-github/wog/issues"
   },
-  "homepage": "https://github.com/ning-github/wog#readme"
+  "homepage": "https://github.com/ning-github/wog#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
 }
