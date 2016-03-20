@@ -1,23 +1,28 @@
 {
-  "name": "wog",
-  "version": "2.0.3",
+  "name": "olg",
+  "version": "1.0.0",
   "description": "a light, simple logging tool for a smoother development and debugging process",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha ./test/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ning-github/wog.git"
+    "url": "git+https://github.com/ning-github/olg.git"
   },
+  "keywords": [
+    "log",
+    "debug"
+  ],
   "author": "Ning Xia <nxiamail@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ning-github/wog/issues"
+    "url": "https://github.com/ning-github/olg/issues"
   },
-  "homepage": "https://github.com/ning-github/wog#readme",
-  "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.4.5"
-  }
+  "homepage": "https://github.com/ning-github/olg#readme"
 }
