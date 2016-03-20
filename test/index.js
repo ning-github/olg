@@ -1,9 +1,9 @@
 var should = require("chai").should();
-var wog = require("../lib/wog.js");
+var olg = require("../lib/olg.js");
 
 describe("Setup", function(){
     it("should have a log method", function(){
-        wog.should.have.property("log");
-        (wog.log).should.be.a("function");
+        olg.should.have.property("log");
+        (olg.log).should.be.a("function");
     });
 });
