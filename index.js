@@ -1,1 +1,1 @@
-module.exports = require("./lib/wog.js");
+module.exports = require("./lib/olg.js");
