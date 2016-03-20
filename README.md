@@ -1,4 +1,4 @@
-# olg [![Build Status](https://travis-ci.org/ning-github/wog.svg?branch=master)](https://travis-ci.org/ning-github/wog) [![npm version](https://badge.fury.io/js/wog.svg)](https://badge.fury.io/js/wog)
+# olg [![Build Status](https://travis-ci.org/ning-github/olg.svg?branch=master)](https://travis-ci.org/ning-github/olg) [![npm version](https://badge.fury.io/js/olg.svg)](https://badge.fury.io/js/olg)
 a light, simple logging tool for a smoother development and debugging process
 
 ####Installation
