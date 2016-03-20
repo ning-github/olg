@@ -5,7 +5,7 @@ a light, simple logging tool for a smoother development and debugging process
     $ npm install olg
 
 ####How to use
-    var wog = require("olg");
+    var olg = require("olg");
     
     var foo = bar();
     
