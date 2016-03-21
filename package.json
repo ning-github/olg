@@ -1,6 +1,6 @@
 {
   "name": "olg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a light, simple logging tool for a smoother development and debugging process",
   "main": "index.js",
   "directories": {
